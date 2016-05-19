@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mapsss</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn">GET YOUR CURRENT LOCATION</string>
+</resources>
